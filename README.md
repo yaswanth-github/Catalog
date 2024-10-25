@@ -1,5 +1,12 @@
 # Catalog Placements Assignment - Online
 
+## Run This Project
+
+
+<!-- [![Open in Codespaces](https://img.shields.io/badge/Open%20in%20Codespaces-1B5E20?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yaswanth-github/Catalog/blob/main/.github/workflows/nodejs.ymlE) -->
+
+[![Run Script](https://img.shields.io/badge/Run%20Script-0D47A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yaswanth-github/Catalog/blob/main/.github/workflows/nodejs.yml)
+
 **Duration:** 70 mins
 
 **Testing Environment/IDE:** Use any IDE or environment you are comfortable with
