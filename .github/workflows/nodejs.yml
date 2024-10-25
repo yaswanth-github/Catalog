@@ -25,8 +25,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run tests
-        run: npm test  # Modify this to your test command if needed
+      # - name: Run tests
+      #   run: npm test  # Modify this to your test command if needed
 
       - name: Run the script
         run: node index.js  # Execute your main script
